@@ -27,4 +27,4 @@ Understanding browswer security and modifying code accordingly to fulfill browse
 
 
 
-[P]: /assets/Drum%20Kit.png
+[P]: https://github.com/AbhijitSarode/DrumKit/blob/main/assets/Drum%20Kit.png
